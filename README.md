@@ -33,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
