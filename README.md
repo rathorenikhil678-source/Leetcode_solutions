@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
 | ------- |
