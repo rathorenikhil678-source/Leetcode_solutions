@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0146-lru-cache) |
+| [0229-majority-element-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## String
 |  |
@@ -13,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0229-majority-element-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1390-four-divisors](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/1390-four-divisors) |
@@ -71,4 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/1390-four-divisors) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0229-majority-element-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
