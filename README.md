@@ -91,12 +91,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0257-binary-tree-paths) |
+| [0662-maximum-width-of-binary-tree](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
