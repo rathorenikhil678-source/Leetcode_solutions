@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0146-lru-cache) |
 | [0229-majority-element-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0242-valid-anagram) |
+| [0560-subarray-sum-equals-k](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0229-majority-element-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1390-four-divisors](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/1390-four-divisors) |
 ## Two Pointers
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
