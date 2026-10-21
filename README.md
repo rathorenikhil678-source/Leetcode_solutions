@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0229-majority-element-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 ## Stack
 |  |
@@ -156,4 +158,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+## Greedy
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/rathorenikhil678-source/Leetcode_solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
